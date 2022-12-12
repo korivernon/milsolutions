@@ -15,15 +15,15 @@ h4,h5,h6{
 
 .btn-outline-secondary{
     background-color: transparent !important;
-    border-color: #011627 !important;
-    color:  #011627 !important;
+    border-color: #979797 !important;
+    color:  #979797 !important;
     border-radius: 0;
     position: relative;
 }
 .btn-outline-secondary:before{
     content: '';
     position: absolute;
-    background-color: #FF8C00;
+    background-color: #ff0000;
     top: 0;
     left: 0;
     height: 100%;
@@ -36,23 +36,23 @@ h4,h5,h6{
 }
 
 .btn-secondary {
-    background: #011627 !important;
+    background: #979797 !important;
     border-radius: 0;
-    border-color: #011627 !important;
+    border-color: #979797 !important;
 }
 .btn-secondary:hover{
-    color: #FF8C00 !important;
+    color: #ff0000 !important;
 }
 
 .btn-primary{
-    background: #FF8C00 !important;
+    background: #ff0000 !important;
     border-radius: 0;
-    border-color: #FF8C00 !important;
-    color: #011627 !important;
+    border-color: #ff0000 !important;
+    color: #979797 !important;
 }
 .btn-primary:hover{
-    background: #011627 !important;
-    color: #FF8C00 !important;
+    background: #979797 !important;
+    color: #ff0000 !important;
 }
 
 /* Navbar */
@@ -61,7 +61,7 @@ h4,h5,h6{
     border-bottom: 1px solid #eee;
 }
 .navbar-brand,.nav-link{
-    color: #011627;  
+    color: #979797;  
 }
 .nav-link:hover,.navbar-brand:hover{
     color: #777;
@@ -69,31 +69,31 @@ h4,h5,h6{
 
 /* Mission Statement */
 .our-mission{
-    background: #011627;
+    background: #979797;
     color: #ffffff;
 }
 .heading-line {
     height: 3px;
     width: 10%;
-    background: #FF8C00
+    background: #ff0000
 }
 
 /* Services */
 .services i{
     font-size: 2rem;
-    color: #FF8C00;
+    color: #ff0000;
 }/* Services-b */
 .services-b i{
     font-size: 2rem;
-    color: #FF8C00;
+    color: #ff0000;
 }
 .services-b{
-    background: #011627;
+    background: #979797;
     color: #fff;
 }
 /* Contact Us */
 .contact {
-    background: #011627;
+    background: #979797;
     color: #fff;
 }
 
